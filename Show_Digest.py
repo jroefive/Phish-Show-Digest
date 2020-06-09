@@ -1,3 +1,4 @@
+!pip install tkinter
 from tkinter import *
 import matplotlib
 matplotlib.use('TkAgg')
